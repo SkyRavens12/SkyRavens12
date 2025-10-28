@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  🇮🇩 Based in <b>Jawa Tengah, Indonesia</b> &nbsp;|&nbsp; Passionate about crafting clean UIs and delightful user experiences
+    Based in <b>Jawa Tengah, Indonesia</b> &nbsp;|&nbsp; Passionate about crafting clean UIs and delightful user experiences
 </p>
 
 ---
 
 ### ✨ Tentang Saya
-Saya suka meracik antarmuka yang cepat, rapi, dan ramah pengguna, sekaligus memastikan alur pengalaman terasa mulus dari sketsa hingga implementasi. Senang bereksperimen dengan desain, menulis kode yang terstruktur, dan memotret momen di waktu senggang.
+I am a student of Telkom University Purwokerto majoring in Information Systems, and a graduate of SMK Telkom Purwokerto majoring in Software Engineering. I have work experience at Everest Project Yogyakarta. Trained in developing User Interface that is intuitive, responsive, and user experience oriented. Focused on design solutions that are not only visually appealing but also improve user efficiency and satisfaction in using digital products. Dedicated to becoming a more professional, creative, and hard-working Frontend developer and UI UX.
 
 ---
 
