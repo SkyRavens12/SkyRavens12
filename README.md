@@ -40,5 +40,4 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-### ☕ Fun Fact
-Pernah bikin skrip kecil untuk merapikan folder foto otomatis, biar galeri tetap rapi dan SSD tetap happy.
+
