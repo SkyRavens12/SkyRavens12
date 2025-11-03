@@ -11,7 +11,7 @@
 
 ---
 
-### ✨ Tentang Saya
+### ✨ About Me
 I am a student of Telkom University Purwokerto majoring in Information Systems, and a graduate of SMK Telkom Purwokerto majoring in Software Engineering. I have work experience at Everest Project Yogyakarta. Trained in developing User Interface that is intuitive, responsive, and user experience oriented. Focused on design solutions that are not only visually appealing but also improve user efficiency and satisfaction in using digital products. Dedicated to becoming a more professional, creative, and hard-working Frontend developer and UI UX.
 
 ---
